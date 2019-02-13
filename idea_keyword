@@ -1,0 +1,13 @@
+大小写切换                shift+ctrl+u               shift+command+u
+
+格式化代码                ctrl+alt+L                   command+alt+L
+搜索类                        shift+ctrl+n              command+o                           shift+command+n          
+
+搜索文件                    shift+ctrl+f               shift+command+f                 shift+control+f
+
+当前文件替换            ctrl+r                         command+r
+
+全部替换                    shift+ctrl+r               shift+command+r
+
+查找文件                    shift+shift                 shift+shift
+---------------------
